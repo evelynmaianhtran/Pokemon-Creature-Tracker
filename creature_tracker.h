@@ -1,10 +1,6 @@
 /*
 * creature_tracker.h
-* Written by : SENG1120 Staff (c1234567)
-* Modified : 09/05/2024
-*
 * This class represents a simple creature tracker to maintain information about creatures.
-* This file should be used in conjunction with Assignment 3 for SENG1120.
 */
 
 #ifndef SENG1120_CREATURE_TRACKER_H
