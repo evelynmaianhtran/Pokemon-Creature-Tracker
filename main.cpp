@@ -1,10 +1,7 @@
 /*
 * main.cpp
-* Written by : SENG1120 Staff (c1234567)
-* Modified : 17/05/2024
 *
 * This file is a simple demonstration of a creature tracker application.
-* This file should be used in conjunction with Assignment 3 for SENG1120.
 */
 #include <string>
 #include <iostream>
