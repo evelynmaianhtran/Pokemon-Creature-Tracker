@@ -1,11 +1,7 @@
 /*
 * hash_table.h
-* Written by : SENG1120 Staff (c1234567)
-* Modified : 23/05/2024
-*
 * This class represents a templated hash table that uses a linked list for chaining.
 * It is assumed that data items contain the method get_key, which returns a string.
-* This file should be used in conjunction with Assignment 3 for SENG1120.
 */
 
 #ifndef SENG1120_HASH_TABLE_H
