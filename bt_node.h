@@ -1,10 +1,6 @@
 /*
 * bt_node.h
-* Written by : SENG1120 Staff (c1234567)
-* Modified : 05/10/2023
-*
 * This class represents a templated binary tree node.
-* This file should be used in conjunction with Assignment 3 for SENG1120.
 */
 
 #ifndef SENG1120_BTNODE_H
