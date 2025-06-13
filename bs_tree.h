@@ -1,10 +1,7 @@
 /*
 * bs_tree.h
-* Written by : SENG1120 Staff (c1234567)
-* Modified : 05/10/2023
 *
 * This class represents a templated binary search tree.
-* This file should be used in conjunction with Assignment 3 for SENG1120.
 */
 
 #ifndef SENG1120_BSTREE_H
