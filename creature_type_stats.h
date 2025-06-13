@@ -1,10 +1,6 @@
 /*
 * creature_type_stats.h
-* Written by : SENG1120 Staff (c1234567)
-* Modified : 16/05/2024
-*
 * This class represents a stats object for a type of creature.
-* This file should be used in conjunction with Assignment 3 for SENG1120.
 */
 
 #ifndef SENG1120_CREATURE_TYPE_STATS_H
